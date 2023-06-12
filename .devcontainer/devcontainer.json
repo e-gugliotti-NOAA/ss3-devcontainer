@@ -11,5 +11,5 @@
 			"installSystemRequirements": true
 		}
 	},
-    "postCreateCommand": "bash .devcontainer/setup-admb.sh"
+    "postCreateCommand": "bash .devcontainer/ss3-exe-download.sh"
 }
